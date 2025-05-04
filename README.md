@@ -9,4 +9,4 @@
     </td>
   </tr>
 </table>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hariprashad-havikumar)
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
